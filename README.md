@@ -8,28 +8,28 @@ TextHub is a modern chat application built with **Flutter** and **Firebase**. It
 
 ### 🖼️ App Icon
 <p align="center">
-  <img src="screenshots/app_icon.png" width="120"/>
+  <img src="Screenshots/icon.jpg" width="120"/>
 </p>
 
 ### 🔐 Login & Register
 <p align="center">
-  <img src="Screenshots/login.png" width="200"/>
-  <img src="Screenshots/register.png" width="200"/>
+  <img src="Screenshots/login.jpg" width="200"/>
+  <img src="Screenshots/register.jpg" width="200"/>
 </p>
 
 ### 🏠 Home Screen 
 <p align="center">
-  <img src="Screenshots/home.png" width="200"/>
+  <img src="Screenshots/home.jpg" width="200"/>
 </p>
 
 ### 📂 Drawer Screen
 <p align="center">
-  <img src="Screenshots/drawer.png" width="200"/>
+  <img src="Screenshots/drawer.jpg" width="200"/>
 </p>
 
 ### 💬 Chat Screen
 <p align="center">
-  <img src="Screenshots/chat.png" width="200"/>
+  <img src="Screenshots/chat.jpg" width="200"/>
 </p>
 
 
