@@ -6,6 +6,11 @@ TextHub is a modern chat application built with **Flutter** and **Firebase**. It
 
 ## 📸 Screenshots
 
+### 🖼️ App Icon
+<p align="center">
+  <img src="screenshots/app_icon.png" width="120"/>
+</p>
+
 ### 🔐 Login & Register
 <p align="center">
   <img src="Screenshots/login.png" width="200"/>
@@ -14,12 +19,12 @@ TextHub is a modern chat application built with **Flutter** and **Firebase**. It
 
 ### 🏠 Home Screen 
 <p align="center">
-  <img src="screenshots/home.png" width="200"/>
+  <img src="Screenshots/home.png" width="200"/>
 </p>
 
 ### 📂 Drawer Screen
 <p align="center">
-  <img src="screenshots/drawer.png" width="200"/>
+  <img src="Screenshots/drawer.png" width="200"/>
 </p>
 
 ### 💬 Chat Screen
