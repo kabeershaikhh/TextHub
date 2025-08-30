@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "93546424301",
+    "project_id": "texthub-1d322",
+    "storage_bucket": "texthub-1d322.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93546424301:android:34d94889de17442bfe29e4",
+        "android_client_info": {
+          "package_name": "com.example.text_hub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwd8sDGTg5XHONQxW8Q4QdOGEWHeC8wiQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
