@@ -66,11 +66,3 @@ TextHub is a modern chat application built with **Flutter** and **Firebase**. It
 - Navigator and route management  
 - Git & GitHub for version control and collaboration  
 
----
-
-## ▶️ Getting Started
-
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/TextHub.git
-   cd TextHub
